@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Kostas Kalogeropoulos' Web Page"
 ---
 
 Associate Professor of Statistics  
