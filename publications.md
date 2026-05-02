@@ -1,9 +1,7 @@
 ---
 layout: page
-title: ""
+title: Publications
 ---
-
-# Publications
 
 ## Journal Articles
 
