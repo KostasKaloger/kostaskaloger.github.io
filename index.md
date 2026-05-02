@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-# Kostas Kalogeropoulos' Web Page
+# Kostas Kalogeropoulos
 
 Associate Professor of Statistics  
 Department of Statistics, London School of Economics  
