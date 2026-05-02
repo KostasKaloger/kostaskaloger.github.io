@@ -1,9 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Kostas Kalogeropoulos"
 ---
-
-# Kostas Kalogeropoulos
 
 Associate Professor of Statistics  
 Department of Statistics, London School of Economics  
