@@ -3,6 +3,9 @@ layout: page
 title: "Kostas Kalogeropoulos"
 ---
 
+
+<img src="kkphoto.png" alt="Kostas Kalogeropoulos" width="200">
+
 Associate Professor of Statistics  
 Department of Statistics, London School of Economics  
 
