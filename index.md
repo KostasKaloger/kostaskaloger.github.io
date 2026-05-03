@@ -3,8 +3,7 @@ layout: page
 title: "Kostas Kalogeropoulos"
 ---
 
-
-<img src="kkphoto.png" alt="Kostas Kalogeropoulos" width="200">
+<img src="kkphoto.png" alt="Kostas Kalogeropoulos" width="180" style="float:left; margin-right:20px; margin-bottom:10px;">
 
 Associate Professor of Statistics  
 Department of Statistics, London School of Economics  
