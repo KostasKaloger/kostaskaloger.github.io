@@ -25,11 +25,11 @@ Before joining LSE, I was a postdoctoral researcher at the University of Cambrid
 
 My research focuses on Bayesian inference for latent stochastic processes, with particular emphasis on:
 
-- Diffusion models and stochastic differential equations  
-- Markov chain Monte Carlo (MCMC)  
-- Sequential Monte Carlo (SMC) methods  
+- Diffusion models Gaussian Processes  
+- Markov chain and Sequential Monte Carlo (SMC) methods  
 - Epidemic modelling  
-- Latent factor models  
+- Latent factor models and stochastic process
+- Interpretable Machine Learning
 
 I am also interested in applications in finance, biostatistics, and social statistics.
 
