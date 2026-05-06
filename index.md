@@ -30,32 +30,6 @@ My research focuses on Bayesian inference for latent stochastic processes, with 
 
 I am also interested in applications in finance, biostatistics, and social statistics.
 
-👉 [Full list of publications](publications.md)
-
----
-
-## Teaching
-
-I currently teach:
-
-- ST451 Bayesian Machine Learning  
-- ST308 Bayesian Inference  
-- ME315 Machine Learning in Practice (LSE Summer School)  
-
----
-
-## Roles and activities
-
-- Programme Director, MSc Statistics, LSE  
-- Member of the Greek Stochastics Team  
-- Organiser of the Theory of Machine Learning Reading Group  
-
----
-
-## CV
-
-[Download CV](cv.pdf)
-
 ---
 
 ## Contact
