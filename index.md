@@ -8,15 +8,14 @@ title: "Main Page"
 # Kostas Kalogeropoulos
 
 Associate Professor of Statistics  
-Department of Statistics, London School of Economics  
+Department of Statistics, 
+London School of Economics  
 
 <div style="clear: both;"></div> 
 
 ---
 
 ## About
-
-I am an Associate Professor in the Department of Statistics at the London School of Economics.
 
 Before joining LSE, I was a postdoctoral researcher at the University of Cambridge, in the Signal Processing Laboratory of the Engineering Department. I completed my PhD in Statistics at the Athens University of Economics and Business.
 
