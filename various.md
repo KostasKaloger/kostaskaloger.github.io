@@ -1,5 +1,8 @@
-
 ---
+layout: page
+title: Various
+---
+
 
 ## Roles and activities
 
