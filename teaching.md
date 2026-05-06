@@ -14,8 +14,8 @@ I currently teach:
 
 ## Roles and Activities
 
-- Programme Director, MSc Statistics, LSE  
-- Member of the Greek Stochastics Team  
+- Programme Director, [MSc Statistics, LSE](https://www.lse.ac.uk/study-at-lse/graduate/msc-statistics)  
+- Member of the [Greek Stochastics Team](https://www.stochastics.gr), see this year's workshop on Scalable Inference [here](https://www.stochastics.gr/meetings/pi/index.html).  
 
 ---
 
