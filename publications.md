@@ -5,9 +5,13 @@ title: Publications
 
 ## Journal Articles
 
+- Bouranis L., Demiris, N., Kalogeropoulos, K. and Ntzoufras, I., (2024). Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19. *Journal of Royal Statistical Society Series A (Statistics in Society)*.
+
+- Chatzilena A., Demiris N. and Kalogeropoulos K. (2024) A modelling framework for the analysis of the transmission of SARS-CoV2. *Statistics in Medicine* 43(23): 2542-2558.
+
 - Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2023).  
   Sequential Learning and Economic Benefits from Dynamic Term Structure Models.  
-  *Management Science*.  
+  *Management Science* 70(4):2236-2254.  
   [Publisher link](https://pubsonline.informs.org/journal/mnsc) | [Draft](#)
 
 - Vamvourellis, K., Kalogeropoulos, K. and Moustaki, I. (2023).  
