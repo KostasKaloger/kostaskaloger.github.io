@@ -5,11 +5,17 @@ title: Publications
 
 ## Submitted
 
-- Aschermayr, P. Demiris, N. and Kalogeropoulos, K. (2026). Semi-Markov Models with Particle-Based Bayesian Inference for Epidemics. [Draft](https://arxiv.org/abs/2605.02706)
+- Bouranis L., Demiris, N., Barmpounakis, P. and Kalogeropoulos, K., (2026). Exchangeable Gaussian Processes with application to epidemics.  
+  [Draft](https://arxiv.org/abs/2512.05227). 
 
-- Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2026). Dynamic Inference in Term Structure Models with Unspanned Latent Risks. [Draft](https://arxiv.org/abs/2205.00098)
+- Aschermayr, P. Demiris, N. and Kalogeropoulos, K. (2026). Semi-Markov Models with Particle-Based Bayesian Inference for Epidemics.  
+  [Draft](https://arxiv.org/abs/2605.02706)
 
-- Vamvourellis, K. Phillips, L. and Kalogeropoulos, K. (2026). Bayesian Benefit-Risk Assessment with Dependent Outcomes via Latent Factor Models. [Draft](https://arxiv.org/abs/2205.00093)
+- Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2026). Dynamic Inference in Term Structure Models with Unspanned Latent Risks.  
+  [Draft](https://arxiv.org/abs/2205.00098)
+
+- Vamvourellis, K. Phillips, L. and Kalogeropoulos, K. (2026). Bayesian Benefit-Risk Assessment with Dependent Outcomes via Latent Factor Models.  
+  [Draft](https://arxiv.org/abs/2205.00093)
 
 ## Journal Articles
 
