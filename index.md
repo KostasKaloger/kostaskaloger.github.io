@@ -10,6 +10,8 @@ title: "Main Page"
 Associate Professor of Statistics  
 Department of Statistics, London School of Economics  
 
+<div style="clear: both;"></div> 
+
 ---
 
 ## About
