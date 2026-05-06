@@ -22,7 +22,7 @@ title: Publications
   [Publisher link](https://onlinelibrary.wiley.com/doi/10.1002/sim.10195) | [Draft](https://researchonline.lse.ac.uk/id/eprint/124573/1/Kalogeropoulos_modeling-framework-for-the-_analysis--published.pdf)
 
 - Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2023). Sequential Learning and Economic Benefits from Dynamic Term Structure Models.
-*Management Science* 70(4):2236-2254.  
+ *Management Science* 70(4):2236-2254.  
 [Publisher link](https://pubsonline.informs.org/journal/mnsc) | [Draft](https://arxiv.org/abs/2204.10658)
 
 - Vamvourellis, K., Kalogeropoulos, K. and Moustaki, I. (2023).
