@@ -37,7 +37,7 @@ title: Publications
 
 - Dureau, J., Kalogeropoulos, K., Vickerman, P., Pickles, M., and Boily, M.-C. (2016).  
   A Bayesian approach to estimate changes in condom use from limited HIV prevalence data.  
-  *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, 65(2), 237–257.  
+  *Journal of the Royal Statistical Society: Series C*, 65(2), 237–257.  
   [Publisher link](https://rss.onlinelibrary.wiley.com/journal/14679876) | [Draft](http://arxiv.org/abs/1211.5472)
 
 - Dureau, J., Beskos, A., and Kalogeropoulos, K. (2015).  
