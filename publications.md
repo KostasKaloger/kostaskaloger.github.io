@@ -15,7 +15,7 @@ title: Publications
 
 - Bouranis L., Demiris, N., Kalogeropoulos, K. and Ntzoufras, I., (2025). Bayesian analysis of diffusion-driven multi-type epidemic models with application to COVID-19.
 *Journal of Royal Statistical Society Series A (Statistics in Society)*.
-[Publisher link](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnaf130/8241212?redirectedFrom=fulltext) | [Draft](#)
+[Publisher link] | [Draft](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnaf130/8241212?redirectedFrom=fulltext)
 
 - Chatzilena A., Demiris N. and Kalogeropoulos K. (2024) A modelling framework for the analysis of the transmission of SARS-CoV2.
   *Statistics in Medicine* 43(23): 2542-2558.
