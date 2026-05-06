@@ -5,13 +5,13 @@ title: "Main Page"
 
 <img src="kkphoto.png" alt="Kostas Kalogeropoulos" width="180" style="float:left; margin-right:20px; margin-bottom:10px;">
 
+<div style="clear: both;"></div> 
+
 # Kostas Kalogeropoulos
 
 Associate Professor of Statistics  
 Department of Statistics, 
 London School of Economics  
-
-<div style="clear: both;"></div> 
 
 ---
 
