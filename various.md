@@ -5,7 +5,6 @@
 
 - Programme Director, MSc Statistics, LSE  
 - Member of the Greek Stochastics Team  
-- Organiser of the Theory of Machine Learning Reading Group  
 
 ---
 
