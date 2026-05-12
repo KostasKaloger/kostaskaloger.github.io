@@ -50,7 +50,7 @@ title: Publications
 - Dureau, J., Kalogeropoulos, K., and Baguelin, M. (2013).  
   Capturing the time-varying drivers of an epidemic using stochastic dynamical systems.  
   *Biostatistics*, 14(3), 541–555.  
-  [Paper]([https://academic.oup.com/biostatistics](https://academic.oup.com/biostatistics/article-abstract/14/3/541/259859?redirectedFrom=fulltext)) | [Preprint](http://arxiv.org/abs/1203.5950)
+  [Paper](https://academic.oup.com/biostatistics](https://academic.oup.com/biostatistics/article-abstract/14/3/541/259859?redirectedFrom=fulltext) | [Preprint](http://arxiv.org/abs/1203.5950)
 
 - Beskos, A., Kalogeropoulos, K., and Pazos, E. (2013).  
   Advanced Markov chain Monte Carlo methods for sampling on diffusion pathspace.  
@@ -65,12 +65,12 @@ title: Publications
 - Kalogeropoulos, K., Roberts, G. O., and Dellaportas, P. (2010).  
   Inference for stochastic volatility models using time change transformations.  
   *Annals of Statistics*, 38(2), 784–807.  
-  [Paper]([https://projecteuclid.org/journals/annals-of-statistics](https://projecteuclid.org/journals/annals-of-statistics/volume-38/issue-2/Inference-for-stochastic-volatility-models-using-time-change-transformations/10.1214/09-AOS702.full)) | [Preprint](http://eprints.lse.ac.uk/31421/)
+  [Paper](https://projecteuclid.org/journals/annals-of-statistics](https://projecteuclid.org/journals/annals-of-statistics/volume-38/issue-2/Inference-for-stochastic-volatility-models-using-time-change-transformations/10.1214/09-AOS702.full)) | [Preprint](http://eprints.lse.ac.uk/31421/)
 
 - Kalogeropoulos, K. (2007).  
   Likelihood-based inference for a class of multivariate diffusions with unobserved paths.  
   *Journal of Statistical Planning and Inference*, 137, 3092–3102.  
-  [Paper]([https://www.sciencedirect.com/journal/journal-of-statistical-planning-and-inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375807000778)) | [Preprint](http://eprints.lse.ac.uk/31423/)
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378375807000778) | [Preprint](http://eprints.lse.ac.uk/31423/)
 
 ---
 
