@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+---
+
 ## Working papers
 
 - Bouranis L., Demiris, N., Barmpounakis, P. and Kalogeropoulos, K., (2026). Exchangeable Gaussian processes with application to epidemics. [Preprint](https://arxiv.org/abs/2512.05227). 
@@ -12,6 +14,8 @@ title: Publications
 - Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2026). Dynamic inference in term structure models with unspanned latent risks. [Preprint](https://arxiv.org/abs/2205.00098)
 
 - Vamvourellis, K. Phillips, L. and Kalogeropoulos, K. (2026). Bayesian benefit-risk sssessment with dependent outcomes via latent factor models. [Preprint](https://arxiv.org/abs/2205.00093)
+
+---
 
 ## Journal Articles
 
