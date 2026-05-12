@@ -5,44 +5,47 @@ title: "Main Page"
 
 <img src="kkphoto.png" alt="Kostas Kalogeropoulos" width="180" style="float:left; margin-right:20px; margin-bottom:10px;">
 
-<div style="clear: both;"></div> 
+<div style="clear: both;"></div>
 
 # Kostas Kalogeropoulos
 
 Associate Professor of Statistics  
-Department of Statistics, 
-London School of Economics  
+Department of Statistics  
+London School of Economics and Political Science  
 
 ---
 
 ## About
 
-Before joining LSE, I was a postdoctoral researcher at the University of Cambridge, in the Signal Processing Laboratory of the Engineering Department. I completed my PhD in Statistics at the Athens University of Economics and Business.
+I am an Associate Professor in the Department of Statistics at the London School of Economics and Political Science (LSE). Before joining LSE, I was a postdoctoral researcher in the Signal Processing Laboratory of the Engineering Department at the University of Cambridge. I completed my PhD in Statistics at the Athens University of Economics and Business.
 
 ---
 
 ## Research
 
-My research focuses on Bayesian inference for latent stochastic processes, with particular emphasis on:
+My research focuses on Bayesian inference for latent dynamic systems, with particular emphasis on stochastic processes, sequential learning and structured dependence modelling. Methodologically, my work lies at the interface of Bayesian statistics, stochastic processes and computational methods for partially observed systems.
 
-- Diffusion models Gaussian Processes  
-- Markov chain and Sequential Monte Carlo (SMC) methods  
-- Epidemic modelling  
-- Latent factor models and stochastic process
-- Interpretable Machine Learning
+Current research interests include:
 
-I am also interested in applications in finance, biostatistics, and social statistics.
+- Bayesian inference for stochastic differential equations and latent stochastic processes
+- Sequential Monte Carlo and Markov chain Monte Carlo methods
+- Gaussian process models and structured dependence modelling
+- Epidemic modelling and Bayesian evidence synthesis
+- Latent-variable and factor models
+- Bayesian machine learning and interpretable statistical modelling
+
+I am also interested in applications in financial econometrics, epidemiology, biostatistics and social statistics.
 
 ---
 
 ## Contact
 
 Department of Statistics  
-London School of Economics  
+London School of Economics and Political Science  
 Houghton Street  
 London WC2A 2AE  
 United Kingdom  
 
 Office: Columbia House, Room 610  
 
-Email: k.kalogeropoulos [at] lse.ac.uk  
+Email: k.kalogeropoulos [at] lse.ac.uk
