@@ -3,6 +3,7 @@ layout: page
 title: Teaching and Activities
 ---
 
+---
 ## Teaching
 
 My teaching activities focus primarily on Bayesian statistics, machine learning and computational inference. I currently teach courses at undergraduate, postgraduate and professional education level at the London School of Economics and Political Science.
