@@ -9,7 +9,7 @@ title: Publications
 
 - Bouranis L., Demiris, N., Barmpounakis, P. and Kalogeropoulos, K., (2026). Exchangeable Gaussian processes with application to epidemics. [Preprint](https://arxiv.org/abs/2512.05227). 
 
-- Aschermayr, P. Demiris, N. and Kalogeropoulos, K. (2026). Semi-Markov ,odels with particle-based Bayesian inference for epidemics. [Preprint](https://arxiv.org/abs/2605.02706)
+- Aschermayr, P. Demiris, N. and Kalogeropoulos, K. (2026). Semi-Markov models with particle-based Bayesian inference for epidemics. [Preprint](https://arxiv.org/abs/2605.02706)
 
 - Dubiel-Teleszynski, T., Kalogeropoulos, K. and Karouzakis, N. (2026). Dynamic inference in term structure models with unspanned latent risks. [Preprint](https://arxiv.org/abs/2205.00098)
 
