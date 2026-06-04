@@ -15,7 +15,7 @@ title: Publications
 
 - Vamvourellis, K. Phillips, L. and Kalogeropoulos, K. (2026). Bayesian benefit-risk sssessment with dependent outcomes via latent factor models. [Preprint](https://arxiv.org/abs/2205.00093)
 
-- Giuduce, G. Geneletti, S. and Kalogeropoulos, K. (2026). Evaluating the Impact of COVID-19 Vaccination in the United Kingdom: A Gaussian Process Approach. [Preprint](https://arxiv.org/abs/2210.02850)
+- Giuduce, G. Geneletti, S. and Kalogeropoulos, K. (2026). Evaluating the Impact of COVID-19 Vaccination in the UK: A Gaussian Process Approach. [Preprint](https://arxiv.org/abs/2210.02850)
 
 ---
 
