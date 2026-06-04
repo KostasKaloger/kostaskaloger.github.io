@@ -25,7 +25,7 @@ title: Publications
   *Journal of Royal Statistical Society: Series A*.  
    [Paper](https://doi.org/10.1093/jrsssa/qnaf130) | [Preprint](https://arxiv.org/abs/2211.15229)
 
-- Chatzilena A., Demiris N. and Kalogeropoulos K. (2024) A modelling framework for the analysis of the transmission of SARS-CoV2.
+- Chatzilena A., Demiris N. and Kalogeropoulos K. (2024) A modelling framework for the analysis of the transmission of SARS-CoV2.  
   *Statistics in Medicine* 43(23): 2542-2558.  
   [Paper](https://doi.org/10.1002/sim.10195) | [Preprint](https://researchonline.lse.ac.uk/id/eprint/124573/1/Kalogeropoulos_modeling-framework-for-the-_analysis--published.pdf)
 
