@@ -10,11 +10,11 @@ My teaching activities focus primarily on Bayesian statistics, machine learning 
 
 ### Current Courses
 
-- [ST451 Bayesian Machine Learning](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2025_ST451.htm)  
+- [ST451 Bayesian Machine Learning](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2026_ST451.htm)  
   Postgraduate course covering Bayesian machine learning, probabilistic modelling, latent-variable methods and computational inference.
 
-- [ST308 Bayesian Inference](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2025_ST308.htm)  
-  Undergraduate course introducing Bayesian statistics, hierarchical models, Markov chain Monte Carlo methods and probabilistic modelling.
+- [ST311 Artificial Intelligence and Deep Learning](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2026_ST311.htm)  
+  Undergraduate course covering neural networks, deep learning architectures, and modern approaches to artificial intelligence.
 
 - [ME315 Machine Learning in Practice](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me315)  
   Summer School course focusing on practical machine learning workflows and applications.
@@ -22,8 +22,6 @@ My teaching activities focus primarily on Bayesian statistics, machine learning 
 ---
 
 ## PhD Supervision
-
-I supervise PhD research in Bayesian statistics, stochastic processes, machine learning and computational inference, with applications including epidemic modelling, financial econometrics and latent-variable systems.
 
 Recent and current PhD projects include topics such as:
 
@@ -38,7 +36,7 @@ Recent and current PhD projects include topics such as:
 
 ## Academic Roles and Professional Activities
 
-- Programme Director, [MSc Statistics, LSE](https://www.lse.ac.uk/study-at-lse/graduate/msc-statistics)
+- Deputy Programme Director, [MSc Statistics, LSE](https://www.lse.ac.uk/study-at-lse/graduate/msc-statistics)
 
 - Coordinating MSc Programme Director, Department of Statistics, LSE
 
